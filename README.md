@@ -20,7 +20,16 @@
 
 <br>
 
-## 🛠 Featured Projects
+## 🗃️ Featured Projects
+
+### 📗 WECA 드림패키지
+> 당신이 열어야 시작되는 이야기 - WECA 해외아동 1:1 결연 캠페인 홍보 웹 사이트
+
+\- React.js
+
+🔗 https://weca.or.kr/campaign/we_family/
+
+<br>
 
 ### 🏡 [이사모음.zip](https://github.com/Planner24/24planner.zip)  
 > 흩어져 있는 이사의 모든 것: 체크리스트, 캘린더, 지도, 동거인 기능을 통해 이사 계획을 돕는 웹 사이트
