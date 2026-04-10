@@ -27,7 +27,7 @@
 
 \- Java SpringBoot, React.js, MySQL, AWS  
 
-🔗 https://24zip.com   
+<!--🔗 https://24zip.com-->
 
 <br>
 
