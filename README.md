@@ -30,7 +30,7 @@
 
 **📚 2024.05 ~ 2024.08** · 청년취업사관학교 (Python Flask)
 
-**📚 2024.05 ~ 2024.08** · 청년취업사관학교 (Java Spring Boot, React.js)
+**📚 2024.10 ~ 2025.04** · 청년취업사관학교 (Java Spring Boot, React.js)
 
 **📚 2026.03 ~ 2026.08** · KB IT's Your Life 7기 (Java Spring, Vue.js)
 
